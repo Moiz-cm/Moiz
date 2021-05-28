@@ -1,5 +1,5 @@
 package dvl_lab10;
-
+//for github use
 public class Square {
 public int square (int x) {
 		
